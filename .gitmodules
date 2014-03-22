@@ -1,0 +1,3 @@
+[submodule "bankstatistics"]
+	path = bankstatistics
+	url = https://github.com/deckmar/bankstatistics.git
