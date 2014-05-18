@@ -3,4 +3,4 @@
 	url = https://github.com/deckmar/bankstatistics.git
 [submodule "bankstat-generator"]
 	path = bankstat-generator
-	url = F:\\Google Drive\\MyProjects\\bankstat-generator
+url=https://github.com/deckmar/bankstat-generator.git
