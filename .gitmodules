@@ -6,4 +6,4 @@
 url=https://github.com/deckmar/bankstat-generator.git
 [submodule "examen"]
 	path = examen
-	url = F:\\GoogleDrive\\MyProjects\\examen2
+	url = https://github.com/deckmar/examen.git
