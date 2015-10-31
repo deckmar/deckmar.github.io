@@ -4,3 +4,6 @@
 [submodule "bankstat-generator"]
 	path = bankstat-generator
 url=https://github.com/deckmar/bankstat-generator.git
+[submodule "examen"]
+	path = examen
+	url = F:\\GoogleDrive\\MyProjects\\examen2
